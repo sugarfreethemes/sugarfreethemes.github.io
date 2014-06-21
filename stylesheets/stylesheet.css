@@ -87,7 +87,7 @@ header h2 {
 #container {
   /*background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat; */
   background:#0CD;
-  min-height: 595px;
+  min-height: 995px;
 }
 
 .inner {
@@ -314,7 +314,7 @@ footer {
   margin-top: 40px;
   padding-top: 20px;
   padding-bottom: 30px;
-  font-size: 16px;
+  font-size: 14px;
   color: #aaa;
   font-family:Arial;
 }
